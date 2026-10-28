@@ -63,4 +63,4 @@ Non applicable : aucune pull request n'a été créée.
 
 
 
-![Interface Streamlit LogiAI après une prédiction](docs/capture_streamlit.png)
+![Interface Streamlit LogiAI après une prédiction](Screenshot 2026-10-28 161048.png)
